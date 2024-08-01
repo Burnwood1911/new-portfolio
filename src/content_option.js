@@ -13,7 +13,7 @@ const introdata = {
   },
   description:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-  your_img_url: "https://i.ibb.co/tZnTX9X/p.jpg",
+  your_img_url: "https://minio.alexrossi.xyz/tualike/IMG_4033.heic",
 };
 
 const dataabout = {
